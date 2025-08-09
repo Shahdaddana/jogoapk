@@ -1,3 +1,4 @@
+Ao abrir o link de download no celular, copie e cole diretamente no navegador, pois o sistema operacional pode tentar abrir com o Google Drive, e pode dar erro.
 * Link do apk: https://drive.google.com/file/d/1Q8hq_riLnLwLxmupS491uDP3-vtEa93c/edit
 
 * Link do questionário: https://docs.google.com/forms/d/e/1FAIpQLSdjCgkUIp4MwpDmd5LhPXBa3gyCZmn1RhzWMXUoOEYobntEkA/viewform
